@@ -1,0 +1,1 @@
+stock_info_list = ['bid','marketCap','dividendRate','dividendYield','returnOnEquity','totalCash','totalDebt']
